@@ -1,0 +1,38 @@
+{
+  "titulo": "Painel Maranhão 2050 — Contribuições, Prioridades e Lacunas",
+  "geradoEm": "2026-09-21T13:27:03.653096Z",
+  "fonte": "Matriz_contribuicoes_entidades_Plano_Maranhao_2050_atualizada (3).xlsx",
+  "registros": {
+    "rankingIntegrado": 210,
+    "escutaTecnica": 37,
+    "sistemasDeReferencia": 25,
+    "evidenciasSefaz": 6
+  },
+  "distribuicao": {
+    "porTipo": {
+      "Ativo": 84,
+      "Passivo": 44,
+      "Proposta": 82
+    },
+    "porArea": {
+      "Economia": 62,
+      "Educação, identidade e cultura": 30,
+      "Governança": 52,
+      "Meio ambiente": 37,
+      "Sociedade": 29
+    },
+    "porPrioridade": {
+      "Alta": 81,
+      "Em qualificação": 11,
+      "Muito alta": 1,
+      "Média": 117
+    }
+  },
+  "metodologia": {
+    "adesaoDesafiosEMaturidade": 0.4,
+    "votacaoEscuta": 0.25,
+    "qualidadeDaInformacao": 0.2,
+    "factibilidadeFiscalOrientativa": 0.15,
+    "nota": "A referência da SEFAZ orienta a leitura fiscal por área. Não substitui orçamento, EVTEA ou análise setorial."
+  }
+}

@@ -1,0 +1,12 @@
+﻿.venv/
+__pycache__/
+*.pyc
+node_modules/
+web/node_modules/
+web/dist/
+.env
+.env.*
+.DS_Store
+
+data/origem/*.xlsx
+data/origem/*.xls

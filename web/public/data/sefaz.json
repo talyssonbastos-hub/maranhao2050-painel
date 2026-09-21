@@ -1,0 +1,80 @@
+[
+  {
+    "Nº": 1,
+    "Tipo": "Ativo",
+    "Tema, ativo ou passivo identificado": "Incentivos fiscais para indústria, agroindústria e setores produtivos",
+    "Área de resultado": "Economia",
+    "Evidência da entidade": "Para 2026, o crédito presumido de ICMS previsto é de R$ 1,528 bilhão, destinado a incentivar indústria e agroindústria, agricultura, pecuária, comércio e serviços.",
+    "Fonte e localização": "AMF_TA~1.XLS | aba “Renúncia Fiscal-PLDO-2026”, linha 11 (crédito presumido de ICMS).",
+    "Desafio do Plano relacionado": "8. Elevar o valor agregado da produção e promover maior diversificação produtiva",
+    "Aderência": "Alta",
+    "Confronto e justificativa": "O instrumento fiscal incide sobre setores produtivos e pode favorecer diversificação e adensamento de cadeias. O anexo não demonstra resultados em valor agregado, emprego ou renda; o vínculo é de instrumento, não de impacto.",
+    "Indicador do Plano associado": "Rendimento médio real do trabalho",
+    "Cobertura da área": "Coberta"
+  },
+  {
+    "Nº": 2,
+    "Tipo": "Ativo",
+    "Tema, ativo ou passivo identificado": "Incentivo fiscal para transição energética",
+    "Área de resultado": "Meio ambiente",
+    "Evidência da entidade": "A estimativa de isenção de ICMS para “Energia Limpa” é de R$ 128,4 milhões em 2026.",
+    "Fonte e localização": "AMF_TA~1.XLS | aba “Renúncia Fiscal-PLDO-2026”, linha 40 (Isenção Energia Limpa).",
+    "Desafio do Plano relacionado": "14. Potencializar o desenvolvimento da economia verde e transversalizar a educação ambiental",
+    "Aderência": "Parcial",
+    "Confronto e justificativa": "A evidência registra incentivo ligado à energia limpa, mas não mede geração renovável, redução de emissões ou resultados ambientais. A relação é temática e demanda validação técnica do benefício.",
+    "Indicador do Plano associado": "Participação de fontes renováveis",
+    "Cobertura da área": "Coberta"
+  },
+  {
+    "Nº": 3,
+    "Tipo": "Ativo",
+    "Tema, ativo ou passivo identificado": "Renúncias fiscais direcionadas à saúde e às pessoas com deficiência",
+    "Área de resultado": "Sociedade",
+    "Evidência da entidade": "Em 2026, estão estimados R$ 289,96 milhões em isenção de medicamentos, R$ 157,38 milhões para equipamentos e insumos de saúde e R$ 5,46 milhões para veículos de pessoas com deficiência.",
+    "Fonte e localização": "AMF_TA~1.XLS | aba “Renúncia Fiscal-PLDO-2026”, linhas 41, 42 e 45.",
+    "Desafio do Plano relacionado": "17. Ampliar o acesso e melhorar a qualidade dos serviços de saúde",
+    "Aderência": "Parcial",
+    "Confronto e justificativa": "O tratamento tributário pode reduzir custos de insumos e apoiar o acesso, mas a planilha não registra oferta, cobertura ou qualidade dos serviços. Não permite atribuir resultado ao indicador de saúde.",
+    "Indicador do Plano associado": "Cobertura de atenção primária em saúde",
+    "Cobertura da área": "Coberta"
+  },
+  {
+    "Nº": 4,
+    "Tipo": "Passivo",
+    "Tema, ativo ou passivo identificado": "Renúncia de receita e necessidade de equilíbrio fiscal",
+    "Área de resultado": "Governança",
+    "Evidência da entidade": "O total de renúncia de receita previsto é de R$ 2,500 bilhões em 2025 e R$ 2,633 bilhões em 2026; o demonstrativo também traz a coluna de compensação.",
+    "Fonte e localização": "AMF_TA~1.XLS | aba “Renúncia Fiscal-PLDO-2026”, linha 15 e coluna “Compensação”.",
+    "Desafio do Plano relacionado": "22. Elevar a autonomia fiscal e a captação de recursos",
+    "Aderência": "Muito alta",
+    "Confronto e justificativa": "A renúncia pode apoiar objetivos setoriais, mas representa trade-off fiscal que requer avaliação e compensação. O demonstrativo evidencia a dimensão financeira, não o resultado primário efetivo.",
+    "Indicador do Plano associado": "Resultado primário / RCL",
+    "Cobertura da área": "Coberta"
+  },
+  {
+    "Nº": 5,
+    "Tipo": "Ativo",
+    "Tema, ativo ou passivo identificado": "Crescimento real da arrecadação de ICMS em 2025",
+    "Área de resultado": "Governança",
+    "Evidência da entidade": "A arrecadação de ICMS em 2025 alcançou R$ 11,474 bilhões, com crescimento nominal acumulado de 12,97% e real de 7,67% frente a 2024.",
+    "Fonte e localização": "Arrecadacao_NEEF_2025_ate_dezembro_IPCA_IBGE_final.xlsx | aba “ICMS”, linha “TOTAL” de 2025.",
+    "Desafio do Plano relacionado": "22. Elevar a autonomia fiscal e a captação de recursos",
+    "Aderência": "Muito alta",
+    "Confronto e justificativa": "A série atualizada evidencia ampliação da principal receita própria estadual. ICMS isoladamente não substitui o resultado primário/RCL, de modo que a aderência é de insumo para o equilíbrio fiscal.",
+    "Indicador do Plano associado": "Resultado primário / RCL",
+    "Cobertura da área": "Coberta"
+  },
+  {
+    "Nº": 6,
+    "Tipo": "Ativo",
+    "Tema, ativo ou passivo identificado": "Acompanhamento mensal de receitas por código em 2026",
+    "Área de resultado": "Governança",
+    "Evidência da entidade": "De janeiro a julho de 2026, a arrecadação total registrada soma R$ 11,664 bilhões; o subtotal de ICMS é R$ 9,911 bilhões.",
+    "Fonte e localização": "arrecadacao_por_cod_JULHO2026.xlsx | aba “2026”, linhas 24 e 333.",
+    "Desafio do Plano relacionado": "19. Institucionalizar e aumentar a profissionalização da gestão pública",
+    "Aderência": "Alta",
+    "Confronto e justificativa": "O detalhamento mensal por item de receita forma base factual para acompanhamento fiscal e decisões corretivas. A planilha não descreve processos, pessoal ou sistemas, limitando a aferição da gestão pública.",
+    "Indicador do Plano associado": "CAPAG",
+    "Cobertura da área": "Coberta"
+  }
+]
